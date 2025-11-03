@@ -1,0 +1,1 @@
+USDT Found — WLFI Mining (Clean Live Version)\nFiles: index.html, style.css, script.js, logo.png, bg.jpg\nInstructions: upload to GitHub Pages root. Frontend-only demo using localStorage.
